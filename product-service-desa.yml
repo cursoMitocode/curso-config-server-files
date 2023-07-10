@@ -1,6 +1,6 @@
 server:
   port: 9001
-  
+
 encrypt:
   key:  mitocode-secrets
-  value: '{cipher}ed4b8ec5bda7cde1db01ec79f3edb40fd76bcd753389407b697f6ed4255cbc2f'
+  value: '{cipher}7dbc9587383962331802df5c7a5a82049743c56d3b67858508e747703baf6041'
