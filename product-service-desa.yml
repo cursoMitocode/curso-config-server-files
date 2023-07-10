@@ -1,1 +1,4 @@
-Mi primer archivo config server
+server:
+  port: 9001
+encrypt:
+  key:  mitocode-secrets
